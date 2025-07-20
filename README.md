@@ -1,18 +1,17 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm AHMED GARCI
 
 I'm a junior developer passionate about building scalable web applications and solving real-world problems through code.
 
-🎓 I’m currently studying **[Your Degree, e.g. BSc in Computer Science]** at **[Your University Name]**, where I'm deepening my understanding of software engineering, algorithms, and systems design.
+🎓 I’m currently studying at Higher Institute of management of Bizerte, where I'm deepening my understanding of software engineering, algorithms, and systems design.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:** Java, JavaScript, TypeScript
-- **Frontend:** React.js, HTML, CSS
+- **Frontend:** React.js
 - **Backend:** Spring Boot, Express.js
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Other Tools:** Git, REST APIs, Postman
+- **Other Tools:** Git, Jira
 
 ---
 
@@ -30,9 +29,9 @@ Here are a few of the projects I've worked on. More coming soon!
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
+- 📧 Email: ahmedgarci146@gmail.com  
+- 💼 LinkedIn: (https://www.linkedin.com/in/ahmedgarci/)  
+- 🐙 GitHub: (https://github.com/ahmedgarci)
 
 ---
 
