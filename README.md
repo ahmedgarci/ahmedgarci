@@ -15,17 +15,6 @@ I'm a junior developer passionate about building scalable web applications and s
 
 ---
 
-## 🛠️ Projects
-
-Here are a few of the projects I've worked on. More coming soon!
-
-- **Project 1** – A short description of your project, tech used, and a link
-- **Project 2** – Another project, what it does, and why you built it
-- **Project 3** – Keep going! This is your portfolio, show it off
-
-> 📌 *Visit my portfolio site here:* [https://your-username.github.io](https://your-username.github.io)
-
----
 
 ## 📫 Contact Me
 
